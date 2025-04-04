@@ -39,3 +39,9 @@ Live Power BI Dashboard [Link](https://app.powerbi.com/view?r=eyJrIjoiZjA0OGJhOD
 ## 📌 Conclusion
 *This project challenged me to think strategically, connect business goals to data, and present insights that directly impact decision-making. It pushed me to grow as a Data Analyst and refine my storytelling with data.*
 
+## Contact
+### [Linkedin profile](https://www.linkedin.com/in/saurabhchunekar)
+### [Portfolio](https://codebasics.io/portfolio/Saurabh-Chunekar)
+### [Email](mailto:dataanalystsaurabh@gmail.com)
+
+*Thank you! for reading*

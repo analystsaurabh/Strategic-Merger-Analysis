@@ -5,9 +5,9 @@ This project was part of the Codebasics Resume Project Challenge #14 and focused
 Evaluate platform performance, user behavior, and content consumption patterns to help establish Lio-Jotstar as India's #1 OTT platform.
 
 ## 🔍 Scope of Analysis
-• 📊 Subscriber Trends: Growth patterns, inactivity rates, upgrades, and downgrades
-• 🎥 Content Insights: Language diversity, content type preferences
-• 📈 Engagement Analysis: Watch time by device and city tier
+• 📊 Subscriber Trends: Growth patterns, inactivity rates, upgrades, and downgrades.
+• 🎥 Content Insights: Language diversity, content type preferences.
+• 📈 Engagement Analysis: Watch time by device and city tier.
 
 ## 🛠 Tools & Technologies Used
 🧹 Power Query: For data cleaning & transformation

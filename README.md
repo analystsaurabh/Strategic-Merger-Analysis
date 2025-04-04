@@ -33,13 +33,13 @@ Evaluate platform performance, user behavior, and content consumption patterns t
 3. **Content Optimization**: Align content offerings to serve a broader audience post-merger
 
 ## 🔗 Important Links
-Video Presentation on [YouTube](https://www.youtube.com/watch?v=tOyXRsv8Aa0)
-Live Power BI Dashboard [Link](https://app.powerbi.com/view?r=eyJrIjoiZjA0OGJhODAtYzJlYi00YmRlLThkYjAtMGRiZmE0NzgxNDc5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+- Video Presentation on [YouTube](https://www.youtube.com/watch?v=tOyXRsv8Aa0)
+- Live Power BI Dashboard [Link](https://app.powerbi.com/view?r=eyJrIjoiZjA0OGJhODAtYzJlYi00YmRlLThkYjAtMGRiZmE0NzgxNDc5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## 📌 Conclusion
 *This project challenged me to think strategically, connect business goals to data, and present insights that directly impact decision-making. It pushed me to grow as a Data Analyst and refine my storytelling with data.*
 
-## Contact
+## 📧 Contact
 - [Linkedin profile](https://www.linkedin.com/in/saurabhchunekar)
 - [Portfolio](https://codebasics.io/portfolio/Saurabh-Chunekar)
 - [Email](mailto:dataanalystsaurabh@gmail.com)
